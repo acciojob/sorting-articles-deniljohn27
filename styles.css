@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.list{
+	display:inline-block;
+	background:rgb(128,128,128,.3);
+	padding:10px;
+}
+ul{
+	width:300px;
+	list-style:none;
+	position:relative;
+    
+}
+li{
+	background-color:white;
+	padding:10px;
+	border:1px solid grey;
+	margin-right:30px;
+	margin-bottom:2px;
+}
